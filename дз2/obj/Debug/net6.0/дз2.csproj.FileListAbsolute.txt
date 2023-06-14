@@ -1,0 +1,15 @@
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\дз2.csproj.AssemblyReference.cache
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\дз2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\дз2.AssemblyInfoInputs.cache
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\дз2.AssemblyInfo.cs
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\дз2.csproj.CoreCompileInputs.cache
+D:\Катя\гикбрейнс\дз\C#\дз2\bin\Debug\net6.0\дз2.exe
+D:\Катя\гикбрейнс\дз\C#\дз2\bin\Debug\net6.0\дз2.deps.json
+D:\Катя\гикбрейнс\дз\C#\дз2\bin\Debug\net6.0\дз2.runtimeconfig.json
+D:\Катя\гикбрейнс\дз\C#\дз2\bin\Debug\net6.0\дз2.dll
+D:\Катя\гикбрейнс\дз\C#\дз2\bin\Debug\net6.0\дз2.pdb
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\дз2.dll
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\refint\дз2.dll
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\дз2.pdb
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\дз2.genruntimeconfig.cache
+D:\Катя\гикбрейнс\дз\C#\дз2\obj\Debug\net6.0\ref\дз2.dll
